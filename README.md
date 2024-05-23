@@ -1,7 +1,7 @@
 # database_class-2_5
 <h2 dir="rtl">کسرا زنگنه</h2>
 <h2 dir="rtl"> 02221033705027 </h2>
-<h2 dir="rtl"> استاندارد طراحی پایگاه داده برای یک erp </h2>
+<h2 dir="rtl"> data type ها در پایگاه داده </h2>
 
 <div dir="rtl">
  انواع داده عددی:
